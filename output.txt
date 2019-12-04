@@ -1,0 +1,20 @@
+Script started on Tue Dec  3 21:25:18 2019
+[?1034hbash-3.2$ javac EditDistance.java 
+bash-3.2$ javac Path.java 
+bash-3.2$ java [Kc Match.java 
+bash-3.2$ Edit[K[K[K[Kjava EditDistance.[K < input.txt 
+Edit distance: = 7
+A T 1
+A A 0
+C - 2
+A A 0
+G G 0
+T G 1
+T T 0
+A - 2
+C C 0
+C A 1
+bash-3.2$ exit
+exit
+
+Script done on Tue Dec  3 21:25:45 2019
